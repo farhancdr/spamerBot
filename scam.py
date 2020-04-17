@@ -14,9 +14,9 @@ hdkKdhakdfhLOdiajdfkLdkahdkKdhakdfjLkdfhakdfjLidfjakdfTlaksdjfi
 oQewauflskWTonuzaMayshaBushraHannahIsratjdflaskEduraoRweifjaTlks
 dFarinAbdullahAhmedDurjoyAbdulYuraIslamoiUwejflRokyNusratIaskdf
 jwOeiursiPldjflaAskdSrthawDeiofjDaliyaAfhanSamhaSamantaTamalSkdFhaslKjdf"""
+names = re.sub( r"([A-Z])", r" \1", s).split()
 nmb = ['3','5','6','7','8','9']
 occs = ['Student','Teacher','Nothing','ছাত্র','বেকার',]
-names = re.sub( r"([A-Z])", r" \1", s).split()
 for _ in range(len(names)):
     nm = '01'+str(nmb[random.randint(0,5)])+str(random.randint(00000000,99999999))
     email = names[_].lower()+'@gmail.com'

@@ -1,3 +1,3 @@
 # spamerBot
 
-Making spammer life hell with sending a lot of fake[realistic]  data!
+Making spammers life hell with sending a lot of fake[realistic]  data!
